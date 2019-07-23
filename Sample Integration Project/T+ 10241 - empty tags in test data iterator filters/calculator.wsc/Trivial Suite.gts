@@ -5,7 +5,7 @@
          <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
          <resourceConfig chkenv="false" name="Scenario" pacingtime="0.0" pacingtype="MIN_DURATION" parallel="false" slowfail="false" usepacing="false">
             <environmentTasks preventExecutionOnFailure="false"/>
-         </resourceConfig>
+         </resourceConfig>  
          <testItem continueOnFail="true" id="2df7daf7:168c85108cc:-7e70" lkname="OfflineAdditionTest" lkpath="calculator/Add/OfflineAdditionTest" type="test_resource"/>
       </scenario>
    </resourceConfig>
