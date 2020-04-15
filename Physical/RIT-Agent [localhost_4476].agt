@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1554782162791" createdUser="RICHARD.LITTLEJR" id="6b3cd1d7:16a003c6f2b:-7e6c" selfDescribing="RIT-Agent [localhost:4476]" type="agent_action" updatedTimestamp="1554782162791" updatedUser="RICHARD.LITTLEJR" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig host="localhost" port="4476"/>
+</editableResource>

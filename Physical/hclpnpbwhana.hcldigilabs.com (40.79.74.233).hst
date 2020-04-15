@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1548432448639" createdUser="RICHARD.LITTLEJR" id="-6511f39c:168858bde6d:-7ab3" selfDescribing="hclpnpbwhana.hcldigilabs.com (40.79.74.233)" type="host_machine_resource" updatedTimestamp="1548432448639" updatedUser="RICHARD.LITTLEJR" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig host_address="40.79.74.233" user_host_name="hclpnpbwhana.hcldigilabs.com">
+      <roles>
+         <identity name="ssh" port="22"/>
+      </roles>
+   </resourceConfig>
+</editableResource>

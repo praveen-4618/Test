@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1548428840685" createdUser="RICHARD.LITTLEJR" id="-6511f39c:168858bde6d:-7ea4" selfDescribing="JVM" type="java_method_transport" updatedTimestamp="1548428840685" updatedUser="RICHARD.LITTLEJR" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig transportName="" transportTemplateName="java_method_transport"/>
+</editableResource>

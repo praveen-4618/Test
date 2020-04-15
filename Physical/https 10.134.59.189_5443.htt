@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1548273665762" createdUser="RICHARD.LITTLEJR" id="-22023630:1687c46c07c:-7ece:1437688209:1544155186" selfDescribing="https 10.134.59.189:5443" type="http_transport" updatedTimestamp="1557748679902" updatedUser="RICHARD.LITTLEJR" version="1.0">
+   <syncdetails compare="https localhost:5443" lastSynced="1548273665762" sourceid="-22023630:1687c46c07c:-7ece">
+      <sourcepath path="CalculatorPortBindingService/CalculatorPortBindingSoap11"/>
+   </syncdetails>
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig transportName="" transportTemplateName="HTTP">
+      <messageProperties ReasonPhrase="No Stub available that matches the request" clientConnectionsPerHost="100" credDomain="" credPassword="#com.ghc.1!71ed" credPreemptive="false" credType="0" credUser="" httpHost="10.134.59.189" httpNtlmDomain="" httpPort="5443" httpProxyHost="3128" httpProxyPassword="#com.ghc.1!47f8" httpProxyPort="" httpProxyUsername="" httpServerSocketBindAddressOverride="" httpServerSocketPortOverride="" httpSocketTimeout="" httpTimeoutResponseCode="503" httpVirtualHost="" recType="PROXY" useSsl="true" version="4">
+         <kerberos Anon="false" Conf="false" Custom="true" Enabled="false" Integ="false" KDC="" Loc="" MutAuth="false" Principal="" Pwd="#com.ghc.1!7193" Realm="" RepDet="false" SSO="false" SeqCheck="false"/>
+         <oauth clientassertion="" clientid="" clientsecret="" enabled="false" refreshtoken="" scopes="" tokenendpoint=""/>
+         <serverAuthentication>
+            <authenticationConfig enabled="false" realm="" type="1"/>
+            <authenticationConfig algorithm="" authParams="" domain="" enabled="false" nonce="false" opaque="" qop="" realm="" stale="" type="2"/>
+            <authenticationConfig enabled="false" type="3"/>
+            <authenticationConfig enabled="false" type="5"/>
+         </serverAuthentication>
+      </messageProperties>
+   </resourceConfig>
+</editableResource>

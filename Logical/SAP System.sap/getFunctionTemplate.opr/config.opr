@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1548433796978" createdUser="RICHARD.LITTLEJR" id="13a95b5c:16885d511cf:-7df2" type="operation_resource" updatedTimestamp="1548433796978" updatedUser="RICHARD.LITTLEJR" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig avgTime="0" color="186,143,247" dependencies="-2e160327:165424eb37e:-7ec6" invokeEndFormatterID="javaMethod" invokeEndTransportID="-2e160327:165424eb37e:-7ec6" invokeFormatterID="javaMethod" invokeTransportID="-2e160327:165424eb37e:-7ec6" maxTime="0" mepEndSchemaID="Java Method" mepEndSchemaroot="Return" mepEndUsed="true" mepStartSchemaID="Java Method" mepStartSchemaroot="Invoke" mepType="IN_OUT" minTime="0" stubFormatterID="javaMethod" stubTransportID="-2e160327:165424eb37e:-7ec6">
+      <invokeHeaderNode meTy="Message" name="" type="12" version="1.2">
+         <fieldActionGroup>
+            <fieldAction enabled="false" type="1">
+               <fieldAction anyOrder="false" enabled="false" ignoreExtra="false" ignoreNonPresent="false" type="100"/>
+            </fieldAction>
+         </fieldActionGroup>
+         <_c meTy="String" name="class" type="7" value="com.sap.conn.jco.rt.AbapRepository" version="1.2">
+            <fieldActionGroup>
+               <fieldAction type="0">
+                  <fieldAction exp="com.sap.conn.jco.rt.AbapRepository" type="0"/>
+               </fieldAction>
+            </fieldActionGroup>
+         </_c>
+         <_c meTy="String" name="type" type="7" value="com.sap.conn.jco.JCoRepository" version="1.2">
+            <fieldActionGroup>
+               <fieldAction type="0">
+                  <fieldAction exp="com.sap.conn.jco.JCoRepository" type="0"/>
+               </fieldAction>
+            </fieldActionGroup>
+         </_c>
+         <_c meTy="String" name="method" type="7" value="getFunctionTemplate" version="1.2">
+            <fieldActionGroup>
+               <fieldAction type="0">
+                  <fieldAction exp="getFunctionTemplate" type="0"/>
+               </fieldAction>
+            </fieldActionGroup>
+         </_c>
+         <_c meTy="String" name="file" type="7" value="AbapRepository.java" version="1.2">
+            <fieldActionGroup>
+               <fieldAction type="0">
+                  <fieldAction exp="AbapRepository.java" type="0"/>
+               </fieldAction>
+            </fieldActionGroup>
+         </_c>
+         <_c meTy="Integer" name="line" type="2" value="-1" version="1.2">
+            <fieldActionGroup>
+               <fieldAction type="0">
+                  <fieldAction exp="-1" type="0"/>
+               </fieldAction>
+            </fieldActionGroup>
+         </_c>
+         <_c meTy="String" name="thread" type="7" value="main" version="1.2">
+            <fieldActionGroup>
+               <fieldAction type="0">
+                  <fieldAction exp="main" type="0"/>
+               </fieldAction>
+            </fieldActionGroup>
+         </_c>
+         <_c meTy="Message" name="callsite" type="12" version="1.2">
+            <fieldActionGroup>
+               <fieldAction enabled="false" type="1">
+                  <fieldAction anyOrder="false" enabled="false" ignoreExtra="false" ignoreNonPresent="false" type="100"/>
+               </fieldAction>
+            </fieldActionGroup>
+            <_c meTy="String" name="type" type="7" value="com.sap.conn.jco.rt.BasicRepository" version="1.2">
+               <fieldActionGroup>
+                  <fieldAction type="0">
+                     <fieldAction exp="com.sap.conn.jco.rt.BasicRepository" type="0"/>
+                  </fieldAction>
+               </fieldActionGroup>
+            </_c>
+            <_c meTy="String" name="method" type="7" value="getFunction" version="1.2">
+               <fieldActionGroup>
+                  <fieldAction type="0">
+                     <fieldAction exp="getFunction" type="0"/>
+                  </fieldAction>
+               </fieldActionGroup>
+            </_c>
+            <_c meTy="String" name="file" type="7" value="BasicRepository.java" version="1.2">
+               <fieldActionGroup>
+                  <fieldAction type="0">
+                     <fieldAction exp="BasicRepository.java" type="0"/>
+                  </fieldAction>
+               </fieldActionGroup>
+            </_c>
+            <_c meTy="Integer" name="line" type="2" value="152" version="1.2">
+               <fieldActionGroup>
+                  <fieldAction type="0">
+                     <fieldAction exp="152" type="0"/>
+                  </fieldAction>
+               </fieldActionGroup>
+            </_c>
+         </_c>
+         <_c meTy="String" name="host" type="7" value="LP2-US-51628490" version="1.2">
+            <fieldActionGroup>
+               <fieldAction type="0">
+                  <fieldAction exp="LP2-US-51628490" type="0"/>
+               </fieldAction>
+            </fieldActionGroup>
+         </_c>
+         <_c meTy="String" name="identifier" type="7" version="1.2">
+            <fieldActionGroup>
+               <fieldAction type="0">
+                  <fieldAction type="5"/>
+               </fieldAction>
+            </fieldActionGroup>
+         </_c>
+      </invokeHeaderNode>
+      <stubHeaderConfig>
+         <_c consumerTypeProperty="PARTICIPATE" method="getFunctionTemplate" this="false" type="com.sap.conn.jco.JCoRepository"/>
+      </stubHeaderConfig>
+   </resourceConfig>
+</editableResource>
