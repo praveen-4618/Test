@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1548273665690" createdUser="RICHARD.LITTLEJR" id="-22023630:1687c46c07c:-7ece:-2046364207:408339756" type="infrastructure_component_resource" updatedTimestamp="1548273665690" updatedUser="RICHARD.LITTLEJR" version="1.1">
-   <syncdetails compare="CalculatorPortBindingService/CalculatorPortBindingSoap11" lastSynced="1548273665690" sourceid="-22023630:1687c46c07c:-7ece">
-      <sourcepath path="CalculatorPortBindingService/CalculatorPortBindingSoap11"/>
-   </syncdetails>
-   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
-   <resourceConfig infrastructureType="http_transport">
-      <recordingSettings colour="110,237,216"/>
-   </resourceConfig>
-</editableResource>

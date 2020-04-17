@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1534417541307" createdUser="JONATHAN.HENSON" id="-2e160327:165424eb37e:-7ec6" type="infrastructure_component_resource" updatedTimestamp="1547121166995" updatedUser="JONATHAN.HENSON" version="1.1">
-   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
-   <resourceConfig infrastructureType="java_method_transport">
-      <recordingSettings colour="255,204,51" filterPackage="com.sap.conn.jco.JCoDestination#getRepository&#10;com.sap.conn.jco.JCoRepository#getFunctionTemplate" hideIntraPackage="false" hideLargeMessages="false" hideNoArgs="false" hideRecursiveCalls="true"/>
-   </resourceConfig>
-</editableResource>
